@@ -12,8 +12,6 @@ In this notebook, we will visualize COVID-19 data from the first several weeks o
 |:-------------------------------------:|:-------------------------------------:|
 | ![](https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=500&autorotate=false)| ![](/resources/covid-19-visualization.png)|
 
-<! -- # Demo-Preview -->
-
 <!-- Add a demo for your project -->
 
 <!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.

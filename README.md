@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-# Visualizing When Covid-19 turns into a pandemic from an epidemic.
+# Visualizing When Covid-19 turns into a pandemic from an epidemic
 
 <!-- Add buttons here -->
 
@@ -8,9 +8,11 @@
 
 In this notebook, we will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic.
 
-![](https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=500&autorotate=false)
+|                                       |                                       |
+|:-------------------------------------:|:-------------------------------------:|
+| ![](https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=500&autorotate=false)| ![](/resources/covid-19-visualization.png)|
 
-# Demo-Preview
+<! -- # Demo-Preview -->
 
 <!-- Add a demo for your project -->
 
@@ -27,27 +29,13 @@ Here is a random GIF as a placeholder.
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
 - [Project Title](#project-title)
-- [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)
 
 # Installation
 [(Back to top)](#table-of-contents)
 
 <!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
  -->
-
-<!-- Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
+ 
+On this Github repo, navigate to the appropriate python notebook (*.ipynb). Click the "Run in Colab" link on the top of the lab. That's it!
